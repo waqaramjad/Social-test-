@@ -1,0 +1,15 @@
+<svg id="Component_13_5" data-name="Component 13 – 5" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="40" height="22.5" viewBox="0 0 40 22.5">
+  <defs>
+    <filter id="Knob" x="20.5" y="2" width="19" height="20.5" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="0.5" result="blur"/>
+      <feFlood flood-opacity="0.031"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect id="Background" width="40" height="20" rx="10" fill="#fff"/>
+  <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#Knob)">
+    <rect id="Knob-2" data-name="Knob" width="16" height="16" rx="8" transform="translate(22 2)" fill="#f90202"/>
+  </g>
+</svg>

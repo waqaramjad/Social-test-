@@ -1,0 +1,18 @@
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+  <g id="Layer_1" data-name="Layer 1">
+    <g id="fullscreen">
+      <g id="arrow_drop_down" data-name="arrow drop down" transform="translate(11.2)">
+        <path id="Path_340" data-name="Path 340" d="M46,4.8a.8.8,0,0,1-.8-.8V1.6H42.8a.8.8,0,0,1,0-1.6H46a.8.8,0,0,1,.8.8V4A.8.8,0,0,1,46,4.8Z" transform="translate(-42)"/>
+      </g>
+      <g id="arrow_drop_down-2" data-name="arrow drop down">
+        <path id="Path_341" data-name="Path 341" d="M.8,4.8A.8.8,0,0,1,0,4V.8A.8.8,0,0,1,.8,0H4A.8.8,0,1,1,4,1.6H1.6V4a.8.8,0,0,1-.8.8Z"/>
+      </g>
+      <g id="arrow_drop_down-3" data-name="arrow drop down" transform="translate(0 11.2)">
+        <path id="Path_342" data-name="Path 342" d="M4,46.8H.8A.8.8,0,0,1,0,46V42.8a.8.8,0,0,1,1.6,0v2.4H4a.8.8,0,1,1,0,1.6Z" transform="translate(0 -42)"/>
+      </g>
+      <g id="arrow_drop_down-4" data-name="arrow drop down" transform="translate(11.2 11.2)">
+        <path id="Path_343" data-name="Path 343" d="M46,46.8H42.8a.8.8,0,0,1,0-1.6h2.4V42.8a.8.8,0,0,1,1.6,0V46A.8.8,0,0,1,46,46.8Z" transform="translate(-42 -42)"/>
+      </g>
+    </g>
+  </g>
+</svg>

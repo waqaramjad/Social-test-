@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="59" height="59" viewBox="0 0 59 59">
+  <g id="Group_758" data-name="Group 758" transform="translate(-1648 -347)">
+    <path id="Path_333" data-name="Path 333" d="M48.132,27.769,15.264,45.737Z" transform="translate(1651 349)" fill="#fff"/>
+    <g id="Layer_2" data-name="Layer 2" transform="translate(1648 347)">
+      <g id="Layer_1" data-name="Layer 1">
+        <path id="play_circle" data-name="play circle" d="M29.5,0A29.5,29.5,0,1,0,59,29.5,29.5,29.5,0,0,0,29.5,0Zm12,33-16,9a4,4,0,0,1-6-3.5v-18a4,4,0,0,1,6-3.5l16,9a4,4,0,0,1,0,7Z" opacity="0.47"/>
+      </g>
+    </g>
+    <g id="Layer_2-2" data-name="Layer 2" transform="translate(1666 362)">
+      <g id="Layer_1-2" data-name="Layer 1" transform="translate(0 0)">
+        <g id="play_arrow" data-name="play arrow" transform="translate(0 0)">
+          <path id="Path_334" data-name="Path 334" d="M3.5,28.737a3.48,3.48,0,0,1-1.767-.485A3.459,3.459,0,0,1,0,25.23V3.507A3.47,3.47,0,0,1,1.735.485,3.475,3.475,0,0,1,5.22.452L24.529,11.314a3.5,3.5,0,0,1,0,6.1L5.22,28.284a3.518,3.518,0,0,1-1.719.453Z" transform="translate(0 0)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
